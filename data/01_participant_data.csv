@@ -1,0 +1,186 @@
+participant,condition,stage,measure,value
+PT_01,Autoencoder,Gated Convergence,position error (cm),7.453021741455991
+PT_02,Autoencoder,Gated Convergence,position error (cm),4.523994548219891
+PT_03,Autoencoder,Gated Convergence,position error (cm),9.429350474540543
+PT_05,Autoencoder,Gated Convergence,position error (cm),2.580049971728749
+PT_06,Autoencoder,Gated Convergence,position error (cm),2.54157680169716
+PT_07,Autoencoder,Gated Convergence,position error (cm),4.800500827820432
+PT_08,Autoencoder,Gated Convergence,position error (cm),4.130714820139448
+PT_09,Autoencoder,Gated Convergence,position error (cm),3.080525379206449
+PT_10,Autoencoder,Gated Convergence,position error (cm),2.9583022562257955
+PT_11,Autoencoder,Gated Convergence,position error (cm),3.388105845726078
+PT_12,Autoencoder,Gated Convergence,position error (cm),2.601703426426672
+PT_13,Autoencoder,Gated Convergence,position error (cm),4.447540082319508
+PT_01,ResNet,Gated Convergence,position error (cm),8.496295829275894
+PT_02,ResNet,Gated Convergence,position error (cm),4.508597377314672
+PT_03,ResNet,Gated Convergence,position error (cm),11.833790391189671
+PT_05,ResNet,Gated Convergence,position error (cm),3.863153974184411
+PT_06,ResNet,Gated Convergence,position error (cm),3.2289508737335013
+PT_07,ResNet,Gated Convergence,position error (cm),4.874943876345797
+PT_08,ResNet,Gated Convergence,position error (cm),5.100359815862137
+PT_09,ResNet,Gated Convergence,position error (cm),3.802872236157998
+PT_10,ResNet,Gated Convergence,position error (cm),3.4842457914554403
+PT_11,ResNet,Gated Convergence,position error (cm),4.260553373909838
+PT_12,ResNet,Gated Convergence,position error (cm),2.869781572784813
+PT_13,ResNet,Gated Convergence,position error (cm),4.81048238446107
+PT_01,VGGNet,Gated Convergence,position error (cm),5.517907129881646
+PT_02,VGGNet,Gated Convergence,position error (cm),4.621225030616031
+PT_03,VGGNet,Gated Convergence,position error (cm),8.843620502416245
+PT_05,VGGNet,Gated Convergence,position error (cm),2.569371143601625
+PT_06,VGGNet,Gated Convergence,position error (cm),2.4834658399186584
+PT_07,VGGNet,Gated Convergence,position error (cm),4.847708592752248
+PT_08,VGGNet,Gated Convergence,position error (cm),3.338292222301708
+PT_09,VGGNet,Gated Convergence,position error (cm),2.903086313752871
+PT_10,VGGNet,Gated Convergence,position error (cm),2.827410397868129
+PT_11,VGGNet,Gated Convergence,position error (cm),3.1213136503976364
+PT_12,VGGNet,Gated Convergence,position error (cm),2.5461490089815664
+PT_13,VGGNet,Gated Convergence,position error (cm),4.475083336835145
+PT_01,AG-Pose,Final,position error (cm),6.750294737164107
+PT_02,AG-Pose,Final,position error (cm),4.12821230603145
+PT_03,AG-Pose,Final,position error (cm),7.8938519836856385
+PT_05,AG-Pose,Final,position error (cm),7.710771394770002
+PT_06,AG-Pose,Final,position error (cm),7.196087806902122
+PT_07,AG-Pose,Final,position error (cm),9.241046938016767
+PT_08,AG-Pose,Final,position error (cm),7.358411752338192
+PT_09,AG-Pose,Final,position error (cm),7.320033829442278
+PT_10,AG-Pose,Final,position error (cm),7.339988827194487
+PT_11,AG-Pose,Final,position error (cm),10.385699922592087
+PT_12,AG-Pose,Final,position error (cm),8.204314296912498
+PT_13,AG-Pose,Final,position error (cm),7.876990519624245
+PT_01,SimTact,Final,force error (%),14.489030620820117
+PT_04,SimTact,Final,force error (%),24.24799133155677
+PT_05,SimTact,Final,force error (%),16.936117944618065
+PT_06,SimTact,Final,force error (%),7.727006780397561
+PT_07,SimTact,Final,force error (%),4.0923736658361225
+PT_08,SimTact,Final,force error (%),7.488291926371554
+PT_09,SimTact,Final,force error (%),9.484113218883673
+PT_10,SimTact,Final,force error (%),12.675433040906986
+PT_11,SimTact,Final,force error (%),5.260089840739965
+PT_12,SimTact,Final,force error (%),11.975709860109621
+PT_13,SimTact,Final,force error (%),15.511418590322137
+PT_01,ToolForce,Final,torque error (%),13.777821641305966
+PT_04,ToolForce,Final,torque error (%),26.075531794157957
+PT_05,ToolForce,Final,torque error (%),9.710195440178117
+PT_06,ToolForce,Final,torque error (%),16.127260206267238
+PT_07,ToolForce,Final,torque error (%),11.925003678641385
+PT_08,ToolForce,Final,torque error (%),9.29003881600996
+PT_09,ToolForce,Final,torque error (%),11.559649456499352
+PT_10,ToolForce,Final,torque error (%),21.316204335954453
+PT_11,ToolForce,Final,torque error (%),8.41154707595706
+PT_12,ToolForce,Final,torque error (%),12.529357636554373
+PT_13,ToolForce,Final,torque error (%),7.472097997864087
+PT_01,Complete framework,Perceptual Guess,force error (%),13.25746620490598
+PT_04,Complete framework,Perceptual Guess,force error (%),19.18978986802835
+PT_05,Complete framework,Perceptual Guess,force error (%),8.540987068166329
+PT_06,Complete framework,Perceptual Guess,force error (%),12.38166139150659
+PT_07,Complete framework,Perceptual Guess,force error (%),6.23740033557017
+PT_08,Complete framework,Perceptual Guess,force error (%),10.13365769137938
+PT_09,Complete framework,Perceptual Guess,force error (%),3.73537339270114
+PT_10,Complete framework,Perceptual Guess,force error (%),9.95798275599049
+PT_11,Complete framework,Perceptual Guess,force error (%),4.411573136846219
+PT_12,Complete framework,Perceptual Guess,force error (%),10.54155686663256
+PT_13,Complete framework,Perceptual Guess,force error (%),7.221001908183091
+PT_01,Complete framework,Perceptual Guess,position error (cm),4.918520810678029
+PT_02,Complete framework,Perceptual Guess,position error (cm),9.218180076274525
+PT_03,Complete framework,Perceptual Guess,position error (cm),9.376192614613297
+PT_05,Complete framework,Perceptual Guess,position error (cm),5.985050309900954
+PT_06,Complete framework,Perceptual Guess,position error (cm),7.130299793746081
+PT_07,Complete framework,Perceptual Guess,position error (cm),9.1237160554479
+PT_08,Complete framework,Perceptual Guess,position error (cm),7.295376330597773
+PT_09,Complete framework,Perceptual Guess,position error (cm),7.340193682988861
+PT_10,Complete framework,Perceptual Guess,position error (cm),7.532724516780812
+PT_11,Complete framework,Perceptual Guess,position error (cm),8.23358239502914
+PT_12,Complete framework,Perceptual Guess,position error (cm),7.255178922135289
+PT_13,Complete framework,Perceptual Guess,position error (cm),7.768975210327436
+PT_01,Complete framework,Error Compensation,force error (%),12.07675615925236
+PT_04,Complete framework,Error Compensation,force error (%),18.968327772496448
+PT_05,Complete framework,Error Compensation,force error (%),6.2273199421664
+PT_06,Complete framework,Error Compensation,force error (%),12.37316854298114
+PT_07,Complete framework,Error Compensation,force error (%),4.57573431544005
+PT_08,Complete framework,Error Compensation,force error (%),9.15884161212792
+PT_09,Complete framework,Error Compensation,force error (%),3.52288937817017
+PT_10,Complete framework,Error Compensation,force error (%),8.88734772801399
+PT_11,Complete framework,Error Compensation,force error (%),5.30683141822616
+PT_12,Complete framework,Error Compensation,force error (%),8.19826033380296
+PT_13,Complete framework,Error Compensation,force error (%),7.877720201181041
+PT_01,Complete framework,Error Compensation,position error (cm),3.3350003295502604
+PT_02,Complete framework,Error Compensation,position error (cm),5.799023071688776
+PT_03,Complete framework,Error Compensation,position error (cm),6.357899644898062
+PT_05,Complete framework,Error Compensation,position error (cm),2.784859739936923
+PT_06,Complete framework,Error Compensation,position error (cm),2.7374126355417805
+PT_07,Complete framework,Error Compensation,position error (cm),4.461758674925092
+PT_08,Complete framework,Error Compensation,position error (cm),3.5379319644200065
+PT_09,Complete framework,Error Compensation,position error (cm),3.154133776863269
+PT_10,Complete framework,Error Compensation,position error (cm),3.475583329579844
+PT_11,Complete framework,Error Compensation,position error (cm),4.449820812752781
+PT_12,Complete framework,Error Compensation,position error (cm),3.4831710692434363
+PT_13,Complete framework,Error Compensation,position error (cm),4.043165856819717
+PT_01,Complete framework,Error Compensation,torque error (%),11.23165852100341
+PT_04,Complete framework,Error Compensation,torque error (%),22.36522816908357
+PT_05,Complete framework,Error Compensation,torque error (%),7.52344521907313
+PT_06,Complete framework,Error Compensation,torque error (%),10.9005515745634
+PT_07,Complete framework,Error Compensation,torque error (%),3.08565828509421
+PT_08,Complete framework,Error Compensation,torque error (%),7.68284833640791
+PT_09,Complete framework,Error Compensation,torque error (%),8.731745988544489
+PT_10,Complete framework,Error Compensation,torque error (%),15.8674801629968
+PT_11,Complete framework,Error Compensation,torque error (%),6.742438580064721
+PT_12,Complete framework,Error Compensation,torque error (%),9.65261993179511
+PT_13,Complete framework,Error Compensation,torque error (%),8.62724860923157
+PT_01,Complete framework,Gated Convergence,position error (cm),3.1062418418339504
+PT_02,Complete framework,Gated Convergence,position error (cm),5.464452887429478
+PT_03,Complete framework,Gated Convergence,position error (cm),6.200586550882334
+PT_05,Complete framework,Gated Convergence,position error (cm),2.7463764356558387
+PT_06,Complete framework,Gated Convergence,position error (cm),2.693149462236511
+PT_07,Complete framework,Gated Convergence,position error (cm),4.305561791769938
+PT_08,Complete framework,Gated Convergence,position error (cm),3.505598295100804
+PT_09,Complete framework,Gated Convergence,position error (cm),3.112053829887805
+PT_10,Complete framework,Gated Convergence,position error (cm),3.4268893344058484
+PT_11,Complete framework,Gated Convergence,position error (cm),4.342171648927491
+PT_12,Complete framework,Gated Convergence,position error (cm),3.432617636293356
+PT_13,Complete framework,Gated Convergence,position error (cm),3.9454512579938905
+PT_01,Proprioception only,Gated Convergence,position error (cm),12.419822254526792
+PT_02,Proprioception only,Gated Convergence,position error (cm),9.333004530388678
+PT_03,Proprioception only,Gated Convergence,position error (cm),15.263082835527658
+PT_05,Proprioception only,Gated Convergence,position error (cm),14.75431828414842
+PT_06,Proprioception only,Gated Convergence,position error (cm),15.066631172529332
+PT_07,Proprioception only,Gated Convergence,position error (cm),18.571594659324823
+PT_08,Proprioception only,Gated Convergence,position error (cm),14.316482546618293
+PT_09,Proprioception only,Gated Convergence,position error (cm),14.689801851129111
+PT_10,Proprioception only,Gated Convergence,position error (cm),14.628126913908863
+PT_11,Proprioception only,Gated Convergence,position error (cm),16.311067879961932
+PT_12,Proprioception only,Gated Convergence,position error (cm),14.529967701996773
+PT_13,Proprioception only,Gated Convergence,position error (cm),17.503065806514506
+PT_01,Tactile only,Error Compensation,force error (%),10.789550973119349
+PT_04,Tactile only,Error Compensation,force error (%),25.42251469145832
+PT_05,Tactile only,Error Compensation,force error (%),7.96284975406403
+PT_06,Tactile only,Error Compensation,force error (%),26.27246069514917
+PT_07,Tactile only,Error Compensation,force error (%),10.99672243102557
+PT_08,Tactile only,Error Compensation,force error (%),15.82648022721211
+PT_09,Tactile only,Error Compensation,force error (%),12.29293900645441
+PT_10,Tactile only,Error Compensation,force error (%),18.49482654179964
+PT_11,Tactile only,Error Compensation,force error (%),19.36013174553712
+PT_12,Tactile only,Error Compensation,force error (%),20.39988402691152
+PT_13,Tactile only,Error Compensation,force error (%),15.72009265629781
+PT_01,Tactile only,Error Compensation,torque error (%),8.75880704964951
+PT_04,Tactile only,Error Compensation,torque error (%),27.6320776876406
+PT_05,Tactile only,Error Compensation,torque error (%),11.09846037152844
+PT_06,Tactile only,Error Compensation,torque error (%),22.120389800208308
+PT_07,Tactile only,Error Compensation,torque error (%),8.5439838311221
+PT_08,Tactile only,Error Compensation,torque error (%),12.36052938659365
+PT_09,Tactile only,Error Compensation,torque error (%),18.18515471907125
+PT_10,Tactile only,Error Compensation,torque error (%),26.55415655294847
+PT_11,Tactile only,Error Compensation,torque error (%),17.247327514148
+PT_12,Tactile only,Error Compensation,torque error (%),19.57229856479292
+PT_13,Tactile only,Error Compensation,torque error (%),12.258237684662973
+PT_01,Tactile only,Gated Convergence,position error (cm),9.640323064924038
+PT_02,Tactile only,Gated Convergence,position error (cm),13.25936800923057
+PT_03,Tactile only,Gated Convergence,position error (cm),16.93638759853739
+PT_05,Tactile only,Gated Convergence,position error (cm),14.635450710638448
+PT_06,Tactile only,Gated Convergence,position error (cm),14.775763588725283
+PT_07,Tactile only,Gated Convergence,position error (cm),18.36088717170779
+PT_08,Tactile only,Gated Convergence,position error (cm),14.82467690969479
+PT_09,Tactile only,Gated Convergence,position error (cm),13.540332711457472
+PT_10,Tactile only,Gated Convergence,position error (cm),14.584580772466968
+PT_11,Tactile only,Gated Convergence,position error (cm),16.737015439278654
+PT_12,Tactile only,Gated Convergence,position error (cm),14.830665949438128
+PT_13,Tactile only,Gated Convergence,position error (cm),16.730963918785978
