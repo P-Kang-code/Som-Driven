@@ -1,0 +1,8 @@
+torch>=2.6
+numpy>=1.24
+gpytorch>=1.11
+einops>=0.7
+rotary-embedding-torch==0.2.5
+tqdm>=4.66
+safetensors>=0.4
+h5py>=3.8
