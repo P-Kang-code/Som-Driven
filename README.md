@@ -6,12 +6,12 @@ Minimal downstream model code for somatosensory-driven state estimation in handâ
 
 | File | Role |
 | --- | --- |
-| [diffusion.py](diffusion.py) | Conditional transformer diffusion model and DDIM sampling. |
-| [gp.py](gp.py) | GP feature construction, grouped residual models, rotation operations, and correction utilities. |
-| [proposal.py](proposal.py) | Contact-based pose proposal network and predicted gain distributions. |
-| [physics.py](physics.py) | SDF loading, contact selection, pose optimization, blending, and physical-update acceptance checks. |
-| [train.py](train.py) | Sequential training of the diffusion model, three grouped GPs, and proposal network. |
-| [requirements.txt](requirements.txt) | Python package dependencies. |
+| [diffusion.py](Scripts/diffusion.py) | Conditional transformer diffusion model and DDIM sampling. |
+| [gp.py](Scripts/gp.py) | GP feature construction, grouped residual models, rotation operations, and correction utilities. |
+| [proposal.py](Scripts/proposal.py) | Contact-based pose proposal network and predicted gain distributions. |
+| [physics.py](Scripts/physics.py) | SDF loading, contact selection, pose optimization, blending, and physical-update acceptance checks. |
+| [train.py](Scripts/train.py) | Sequential training of the diffusion model, three grouped GPs, and proposal network. |
+| [requirements.txt](Scripts/requirements.txt) | Python package dependencies. |
 
 
 # Installation and training
